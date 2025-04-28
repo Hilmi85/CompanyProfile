@@ -1,2 +1,2 @@
 # CompanyProfile
-Belajar GIT Dasar, Materi Sync
+Belajar GIT Dasar, Materi Sync.
